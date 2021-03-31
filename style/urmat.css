@@ -1,0 +1,45 @@
+.footer-up{
+    width: 100%;
+    background-color: #f7f7f7;
+    padding: 5px 0px;
+}
+.footer-up .fas, .footer-up .far {
+    font-size: 15px;
+    margin-right: 5px;
+}
+
+.msg{
+    position: relative;
+    bottom: 10px;
+    right: 20px;
+    background-color: red;
+    font-size: 10px;
+    padding: 2px;
+    color: white;
+}
+
+/* ==========================footer-middle=============================== */
+.footer-middle{
+    margin-top: 20px;
+    display: flex;
+    align-items: flex-end;
+}
+.krug{
+    width: 50px;
+    height: 50px;
+    background-color: #f7f7f7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-middle .fas, .footer-middle .far{
+    font-size: 20px;
+    color: #336;
+}
+.footer-middle h4{
+    margin: 0;
+    text-transform: none;
+    font-size: 14px;
+    color: #4c4b6c;
+    font-weight: 500;
+}

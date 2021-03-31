@@ -1,0 +1,24 @@
+a:hover{
+    text-decoration: none;
+}
+.sms:hover .fas{
+    color: red;
+}
+.gift:hover .fas{
+    color: red;
+}
+.eng:hover .fas{
+    color: red;
+}
+.usd:hover .far{
+    color: red;
+}
+.bold:hover{
+    color:red;
+}
+.sign:hover {
+    color:red;
+}
+.register:hover {
+    color:red;
+}
